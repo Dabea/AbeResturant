@@ -1,14 +1,4 @@
-body{
-    background-color: #e81e62;
-    font-family: 'Rammetto One', cursive;
-}
-
-li{
-    list-style :none;
-}
-
-
-/*  Colors
+/*  Colors ****************
 Primary : #e81e62
 P — Light: #ff608f
 P — Dark: #af0039
@@ -16,6 +6,23 @@ P — Dark: #af0039
 secondary : #b2ff59
 S — Light: #e7ff8c
 S — Dark: #7ecb20
+*/
+
+/* Global Styles ***/
+body{
+    background-color: #e81e62;
+}
+
+h1, h2 {
+    font-family: 'Rammetto One', cursive;
+}
+    
+li{
+    list-style :none;
+}
+
+
+
 
 
 
